@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "ChatGpt",
+    "slug": "ChatGpt",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/bot.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/bot.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/bot.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
