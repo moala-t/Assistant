@@ -10,7 +10,7 @@ import { dummyMessages } from "../constants/dummyData";
 import HomeScreenLogo from "../components/HomeScreenLogo";
 import Messages from "../components/Messages";
 import BottomBar from "../components/BottomBar/BottomBar";
-import Voice from "@react-native-community/voice";
+// import Voice from "@react-native-community/voice";
 
 function HomeScreen() {
   const [messages, setMessages] = useState(dummyMessages);
